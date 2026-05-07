@@ -26,7 +26,7 @@ The goal of this session is to explore the business models of personal data sove
 
 | Session | Title (click link for slides) | Presenter |
 | :--- | :--- | :--- |
-| 01 | [Opening – Exploring the business models of Solid](/presentations/01%20Jeremy%20-%20business-model-open.pdf) | Jeremy Caine, IBM |
+| 01 | [Opening – Exploring the business models of Solid](presentations/01%20Jeremy%20-%20business-model-open.pdf) | Jeremy Caine, IBM |
 | 02 | Adapting Solid business models to the AI age | Kelly O'Brien, Chief of Staff, Inrupt |
 | 03 | Why choose the cooperative model for Solid-based businesses? | Sébastien Rosset, Reconnexion |
 | 04 | SOLIDLab – Perspectives on Business Models and Ways Forward | Prof. Sofie Verbrugge, UGent |
@@ -34,6 +34,8 @@ The goal of this session is to explore the business models of personal data sove
 | 06 | We Are: Developing a business model for personal health data pods | Elfi Goesaert, Vito |
 
 **Afternoon Break, 15.10 – 15.40**
+
+[x](./presentations/01%20Jeremy%20-%20business-model-open.pdf)
 
 ### Panel Discussion
 
