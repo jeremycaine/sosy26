@@ -24,14 +24,14 @@ The goal of this session is to explore the business models of personal data sove
 
 **Friday 1 May, 13.40 – 15.10**, Main Auditorium
 
-| Session | Title (click link for slides) | Presenter |
+| Session | Title (click link for slides) | Presenter (click for LinkedIn) |
 | :--- | :--- | :--- |
-| 01 | [Opening – Exploring the business models of Solid](./presentations/01%20Jeremy%20-%20business-model-open.pdf) | Jeremy Caine, IBM |
-| 02 | [Adapting Solid business models to the AI age](./presentations/02%20Kelly%20OB%20FINAL_Solid_Symposium_2026.pdf) | Kelly O'Brien, Chief of Staff, Inrupt |
-| 03 | [Why choose the cooperative model for Solid-based businesses?](./presentations/03%20Sebastien%20-%20Solid%20Symposium%202026%20-%20Cooperative%20model-2.pdf) | Sébastien Rosset, Reconnexion |
-| 04 | [SOLIDLab – Perspectives on Business Models and Ways Forward](./presentations/04%20Sofie%20-%20Verbrugge_SoSy2026_final.pdf) | Prof. Sofie Verbrugge, UGent |
-| 05 | [Generating Value from Personal Data Pods](./presentations/05%20Sjoerd%20-%20SoSy%202026%20-%20when%20the%20tide%20rises.pdf) | Sjoerd Groning, Muze |
-| 06 | [We Are: Developing a business model for personal health data pods](./presentations/06%20Elfi%20-%2020260501_We%20Are%20business%20model_Sosy.pdf) | Elfi Goesaert, Vito |
+| 01 | [Opening – Exploring the business models of Solid](./presentations/01%20Jeremy%20-%20business-model-open.pdf) | [Jeremy Caine, IBM](https://www.linkedin.com/in/jeremycaine/) |
+| 02 | [Adapting Solid business models to the AI age](./presentations/02%20Kelly%20OB%20FINAL_Solid_Symposium_2026.pdf) | [Kelly O'Brien, Chief of Staff, Inrupt](https://www.linkedin.com/in/kellyjobrien/) |
+| 03 | [Why choose the cooperative model for Solid-based businesses?](./presentations/03%20Sebastien%20-%20Solid%20Symposium%202026%20-%20Cooperative%20model-2.pdf) | [Sébastien Rosset, Reconnexion](https://www.linkedin.com/in/sebastien-rosset-reconnexion/) |
+| 04 | [SOLIDLab – Perspectives on Business Models and Ways Forward](./presentations/04%20Sofie%20-%20Verbrugge_SoSy2026_final.pdf) | [Prof. Sofie Verbrugge, UGent](https://www.linkedin.com/in/sofie-verbrugge-9966504/) |
+| 05 | [Generating Value from Personal Data Pods](./presentations/05%20Sjoerd%20-%20SoSy%202026%20-%20when%20the%20tide%20rises.pdf) | [Sjoerd Groning, Muze](https://www.linkedin.com/in/sjoerdvangroning/) |
+| 06 | [We Are: Developing a business model for personal health data pods](./presentations/06%20Elfi%20-%2020260501_We%20Are%20business%20model_Sosy.pdf) | [Elfi Goesaert, Vito](https://www.linkedin.com/in/elfi-goesaert-35057557/) |
 
 **Afternoon Break, 15.10 – 15.40**
 
@@ -39,13 +39,13 @@ The goal of this session is to explore the business models of personal data sove
 
 **Friday 1 May, 15.40 – 16.35**, Main Auditorium
 
-Panel discussion moderated by **Bart Buelens**
+Panel discussion moderated by [Bart Buelens](https://www.linkedin.com/in/bart-buelens-73962a2/)
 
-| Panel Member |
+| Panel Member (click for LinkedIn) |
 | :--- |
-| Roberto Breitman, Community Manager Solid |
-| Jim Halcomb, EDM Association |
-| Prof. Sofie Verbrugge, UGent |
-| Bo Rinaldi, EverBetter |
+| [Roberto Breitman, Community Manager Solid](https://www.linkedin.com/in/roberto-s-k-breitman-07429a157/) |
+| [Jim Halcomb, EDM Association](https://www.linkedin.com/in/jimhalcomb/) |
+| [Prof. Sofie Verbrugge, UGent](https://www.linkedin.com/in/sofie-verbrugge-9966504/) |
+| [Bo Rinaldi, EverBetter](https://www.linkedin.com/in/borinaldi/) |
 
 Followed by the close of the Symposium.
