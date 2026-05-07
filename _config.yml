@@ -5,9 +5,5 @@ url: "https://jeremycaine.github.io"
 baseurl: "/sosy26"
 minima:
   social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/jeremycaine"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/jeremycaine/"
+    github: jeremycaine
+    linkedin_username: jeremycaine
