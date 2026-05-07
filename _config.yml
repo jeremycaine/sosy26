@@ -1,0 +1,5 @@
+title: "Solid Symposium 2026 - Business Models of Solid"
+description: "Shaping the business value of trust and innovating the business models of Solid"
+theme: minima          # built-in Jekyll theme, no install needed
+url: "https://jeremycaine.github.io"
+baseurl: "/sosy26"
